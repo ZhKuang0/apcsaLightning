@@ -5,7 +5,7 @@ int endY = 150;
 void setup()
 {
   size(300,300);
-  background(255,255,0);
+  background(0,0,200);
 }
 void draw()
 {
